@@ -1,0 +1,15 @@
+.hero{
+    height: 89vh;
+    background-image: url(../../assest/img/portada2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .hero__text{
+        text-align: center;
+    }
+}

@@ -55,6 +55,9 @@ form{
     button{
         padding: 10px 20px;
         background: white;
-        color: #84a59d;
+        color:black;
+    }
+    button:hover{
+        background-color: #84a59b;
     }
 }

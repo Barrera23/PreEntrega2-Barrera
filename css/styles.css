@@ -1,31 +1,3 @@
-.hero {
-  height: 89vh;
-  background-image: url(../../assest/img/portada2.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.hero .hero__text {
-  text-align: center;
-  color: white;
-  padding: 30px;
-  border-radius: 20px;
-  background-color: rgba(128, 128, 128, 0.534);
-}
-.hero .hero__button {
-  padding: 15px 10px;
-  border: 2px solid rgba(255, 255, 0, 0.699);
-  text-align: center;
-  text-decoration: none;
-  border-radius: 20px;
-}
-.hero .hero__button:hover {
-  background-color: rgba(255, 202, 58, 0.6705882353);
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -81,7 +53,7 @@ form input {
 form button {
   padding: 10px 20px;
   background: white;
-  color: darkslategrey;
+  color: #84a59d;
 }
 
 /*# sourceMappingURL=styles.css.map */

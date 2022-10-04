@@ -101,4 +101,15 @@ form button:hover {
   background-color: #84a59b;
 }
 
+button {
+  padding: 15px;
+  border: 2px black;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: turquoise;
+}
+
 /*# sourceMappingURL=styles.css.map */

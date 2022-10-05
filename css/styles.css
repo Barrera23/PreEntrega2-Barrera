@@ -26,7 +26,6 @@
   background-color: rgba(255, 202, 58, 0.6705882353);
 }
 
-<<<<<<< HEAD
 .producto__titulo {
   background-color: #84a59d;
   padding: 20px;
@@ -113,68 +112,4 @@ button:hover {
   background-color: turquoise;
 }
 
-=======
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.pie-pagina {
-  background-color: rgba(184, 208, 235, 0.8274509804);
-}
-
-img {
-  width: 50px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
-}
-
-.titulo {
-  font-size: 25px;
-  color: black;
-}
-
-.section {
-  display: flex;
-  justify-content: space-evenly;
-  gap: 80px;
-}
-.section div {
-  display: flex;
-  flex-direction: column;
-}
-.section h3 {
-  color: darkslategrey;
-  padding: 10px;
-}
-.section a {
-  text-decoration: none;
-  padding: 5px;
-}
-
-form {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-form input {
-  background: none;
-  border: solid;
-  padding: 10px 20px;
-}
-form button {
-  padding: 10px 20px;
-  background: white;
-  color: black;
-}
-form button:hover {
-  background-color: #84a59b;
-}
-
->>>>>>> 9e0266357bd847815d7fccb2bfba95ba199a66bb
 /*# sourceMappingURL=styles.css.map */

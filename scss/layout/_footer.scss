@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 
+
+
 .pie-pagina{
     background-color: #b8d0ebd3;
+    
 
 }
 
@@ -16,13 +19,16 @@ img{
     display: flex;
     justify-content: space-between;
     padding: 20px;
+  
+
+    }
    
     .titulo{
         font-size: 25px;
         color: black;
     }
    
-}
+
 .section{
     display: flex;
     justify-content: space-evenly;
@@ -41,6 +47,8 @@ img{
     a{
         text-decoration: none;
         padding: 5px;
+      
+        
     }
 }
 form{
@@ -61,3 +69,9 @@ form{
         background-color: #84a59b;
     }
 }
+
+
+
+   
+
+
